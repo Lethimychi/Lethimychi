@@ -113,8 +113,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/495277881_685279257209112_4351659879017061040_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGfMFqQovBRNG1lxI3YQV0gCYdBM8_43jMJh0Ezz_jeM7K8RkwkBVUWNYEK-LNk1hL6bEY-A6KGg7x7bfTMWzKR&_nc_ohc=3GejdMk3NAwQ7kNvwG2RPfT&_nc_oc=AdlLJ3tYIyP0cwo_7JwBo6cnQJHx0bhJDc8bnlofUqE18jOYfNw-5rTAK9mhYbwObeo&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=VFWDUusOw8pauddauIjKRg&oh=00_AfWxWrW-b8agaNFAoqKuRhAoHujwsMC6uFHtzhvBrGDFjw&oe=689E97A5"  />
-</div>
+
 
 ###
