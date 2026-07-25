@@ -1,118 +1,218 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/1200x/79/e1/f4/79e1f458e2f34f656cfefef6678b9a83.jpg"  />
+
+# 👋 Hi, I'm Le Thi My Chi
+
+### QA/QC Engineer | Manual Testing | API Testing | Automation Testing Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=QA%2FQC+Engineer;Manual+Testing+%7C+API+Testing;Learning+Playwright+%26+Automation;Always+Learning+New+Technologies" />
+
+<p>
+
+<img src="https://img.shields.io/badge/QA-Engineer-blue"/>
+<img src="https://img.shields.io/badge/Manual-Testing-success"/>
+<img src="https://img.shields.io/badge/API-Postman-orange"/>
+<img src="https://img.shields.io/badge/Automation-Playwright-green"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-blue"/>
+<img src="https://img.shields.io/badge/Methodology-Agile%2FScrum-red"/>
+
+</p>
+
 </div>
 
-###
+---
 
-<h1 align="center">👋 Hi, I'm MyChi from VietNam</h1>
+## 👩‍💻 About Me
 
-###
+I'm a **QA/QC Engineer** from Vietnam with nearly **1.5 years of experience** in Manual Testing.
 
-<h3 align="left">👩‍💻  About Me</h3>
+I have worked on **Web, Mobile (iOS/Android), and Admin Dashboard** applications across multiple domains including:
 
-###
+- 📍 Indoor Navigation
+- 🛒 E-commerce
+- 📊 CRM
+- 📢 Media & Advertising
+- 🤖 AI / Computer Vision
 
-<p align="left">🔥  I am currently a final-year student majoring in Communication, and a newcomer in the field of "Software Testing".<br>🐞 Passionate about "finding errors"— especially “soi bug” with a keen eye for detail.  <br>🛠 I have basic professional skills in this field.<br>🌱 I’m eager to grow my skills and contribute to real projects.  <br>🤝 I hope to be your companion in the near future and learn many things from you.</p>
+My daily work includes requirement analysis, test case design, manual testing, API testing, database validation, bug reporting, and collaborating with Agile teams.
 
-###
+Currently, I'm building my Automation Testing skills with **Playwright (TypeScript)** and continuously learning modern QA technologies.
 
-<h3 align="left">📝Languages & Frameworks</h3>
+---
 
-###
+## 🚀 Professional Highlights
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+- ✅ Nearly **1.5 years** of QA experience
+- ✅ 700+ Test Cases designed & executed
+- ✅ 120+ Bugs reported and verified
+- ✅ Experience with Web, Mobile & Admin Dashboard
+- ✅ Strong collaboration with BA, Developers and PM
+- ✅ Passionate about Automation Testing & Continuous Learning
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+`JavaScript` `TypeScript` `Python` `C#` `SQL`
+
+### Testing
+
+`Manual Testing`
+
+`Functional`
+
+`Regression`
+
+`Smoke`
+
+`Sanity`
+
+`Integration`
+
+`UI/UX`
+
+`API Testing`
+
+`Database Testing`
+
+`Security Testing (Basic)`
+
+### Automation
+
+`Playwright`
+
+`Selenium (Learning)`
+
+`Appium (Learning)`
+
+### Database
+
+`PostgreSQL`
+
+`MySQL`
+
+`SQL Server`
+
+### Tools
+
+`Postman`
+
+`Swagger`
+
+`Jira`
+
+`GitLab`
+
+`Git`
+
+`GitHub`
+
+`DBeaver`
+
+`Chrome DevTools`
+
+`VS Code`
+
+`Figma`
+
+---
+
+## 💼 Featured Projects
+
+### 📍 Position Tracking Platform
+
+Indoor Navigation Platform
+
+**Responsibilities**
+
+- Requirement Analysis
+- Test Case Design
+- Manual Testing
+- API Testing
+- Database Validation
+- Regression Testing
+- Bug Reporting
+- Basic Playwright Automation
+
+---
+
+### 📢 Adex
+
+Digital Advertising Platform
+
+**Responsibilities**
+
+- Functional Testing
+- Regression Testing
+- API Testing
+- Bug Reporting
+
+---
+
+## 🤖 AI for QA
+
+I actively use AI tools to improve testing efficiency:
+
+- ChatGPT
+- Claude
+- GitHub Copilot
+- OpenAI Codex
+
+For:
+
+- Requirement Analysis
+- Test Case Generation
+- Edge Case Discovery
+- Bug Report Writing
+- Test Data Generation
+- Automation Script Support
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Playwright
+- Cypress
+- Appium
+- CI/CD for Test Automation
+- Performance Testing
+- AI & LLM Testing
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
 </div>
 
-###
+---
 
-<h3 align="left">📅Database</h3>
+## 📫 Connect with Me
 
-###
+📧 **Email**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+**mychi301215@gmail.com**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/lethimychi15
+
+🐙 **GitHub**
+
+https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+<div align="center">
+
+### ⭐ *"Quality is built into the product, not inspected in afterward."*
+
+Thanks for visiting my profile!
+
 </div>
-
-###
-
-<h3 align="left">🛠 Tools & Platforms</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h3 align="left">💡Testing Skills and  Methodologie</h3>
-
-###
-
-<p align="left">🧪Testing Skills<br>- Writing Test Cases, Test Plans, Test Scripts, Test Reports, Log Bug, Bug Reports <br>- Manual Testing (Functional, Regression, Smoke, UAT)<br>- Basic Automation Knowledge<br>- API Testing ( Postman, Swagger)<br><br>📊Methodologie<br>- Agile/Scrum, Waterfall<br>- SDLC, STLC</p>
-
-###
-
-<h3 align="left">🎯Learning & Goals:</h3>
-
-###
-
-<p align="left">- Deepen knowledge in Automation Testing (Selenium, Appium, Playwright, Cypress)<br>- Learn Performance Testing with JMeter & k6<br>- Improve API Testing skills with Postman & RestAssured<br>- Explore Security Testing fundamentals (OWASP Top 10)<br>- Practice Mobile Testing on Android & iOS platforms<br>- Enhance skills in Test Management Tools (Jira, TestRail, Zephyr, Trello)<br>- Gain hands-on experience with CI/CD pipelines (Jenkins, GitHub Actions)<br>- Learn basic scripting for automation (Python, Java, JavaScript)<br>- Strengthen knowledge of Agile/Scrum and QA best practices<br>- Contribute to open-source QA projects on GitHub</p>
-
-###
-
-<h3 align="left">📫Contact with Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lethimychi15/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mychi301215l@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
